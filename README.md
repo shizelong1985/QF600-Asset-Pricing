@@ -1,5 +1,5 @@
 # QF600-Asset-Pricing
-SMU MSc in Quantitative Finance (2022)
+SMU MSc in Quantitative Finance (AY2021)
 
 [QF600 Asset Pricing.pdf](https://github.com/gabrielwoon/QF600-Asset-Pricing/files/7154804/QF600.Asset.Pricing.pdf)
 
